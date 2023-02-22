@@ -1,3 +1,3 @@
-# project_base_datos_banco
+# base_datos_banco
 
-Proyecto realizado en la asignatura de Bases de datos usando procedimientos almacenados para registrar un banco, una sucursal y para para consultar sucursales asociadas a un banco y ubicación especificas.
+Proyecto realizado en la asignatura de Bases de datos usando procedimientos almacenados para registrar un banco, una sucursal y para para consultar sucursales asociadas a un banco y ubicación especificas. Autores: Erika L. Camacho - Yazmin V. Gutierrez
